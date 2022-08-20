@@ -6,4 +6,4 @@ To automate the creation of joint savings accounts, you’ll create a Solidity s
 
 The completed Solidity JointSavings smart contract.
 
-A folder named Execution_Results that contains at least eight images. These images should confirm that the deposit and withdrawal transactions, which are designed to test the JointSavings functionality in the JavaScript VM, worked as expected.
+
